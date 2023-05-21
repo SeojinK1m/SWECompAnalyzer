@@ -1,0 +1,35 @@
+{
+    "Rent": {
+        "San Francisco": 3000,
+        "Seattle": 2000,
+        "Austin": 1670,
+        "Boston": 2990,
+        "Washington DC": 2300,
+        "New York": 3550,
+        "St. Louis": 900,
+        "Atlanta": 1700,
+        "Chicago": 1740
+    },
+    "Food": {
+        "San Francisco": 560,
+        "Seattle": 500,
+        "Austin": 388,
+        "Boston": 454,
+        "Washington DC": 440,
+        "New York": 538,
+        "St. Louis": 385,
+        "Atlanta": 401,
+        "Chicago": 421
+    },
+    "Utility": {
+        "San Francisco": 514,
+        "Seattle": 493,
+        "Austin": 529,
+        "Boston": 547,
+        "Washington DC": 524,
+        "New York": 505,
+        "St. Louis": 503,
+        "Atlanta": 552,
+        "Chicago": 491
+    }
+}
